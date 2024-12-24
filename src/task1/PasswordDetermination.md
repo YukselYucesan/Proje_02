@@ -27,4 +27,4 @@ Bu program, kullanıcıdan bir kullanıcı adı ve şifre belirlemesini isteyen,
 - Şifreleri karşılaştırmak için `equals` metodunu kullanabilirsiniz.
 - `System.out.println` kullanarak kullanıcıya mesajlar gönderebilirsiniz.
 
-![SifreBelirleme.gif](SifreBelirleme.gif)
+![SifreBelirleme.gif](PasswordDetermination.gif)

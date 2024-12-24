@@ -59,4 +59,4 @@ Mevsimlerin değiştiği kesin tarihler şu şekilde kabul edilmelidir:
 
 3. **Mevsimi Kullanıcıya Bildir:**
 
-![Mevsimler.gif](Mevsimler.gif)
+![Mevsimler.gif](Seasons.gif)

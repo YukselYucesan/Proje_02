@@ -54,4 +54,4 @@ public static void main(String[]args){
 | 4    | aabbbccccccddd | 2a3b6c3d |
 *_NOT : Interview Sorusu_*
 
-![ZipAlgoritmasi.gif](ZipAlgoritmasi.gif)
+![ZipAlgoritmasi.gif](ZipAlgorithm.gif)
